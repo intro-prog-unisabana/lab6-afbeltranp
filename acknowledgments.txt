@@ -4,6 +4,7 @@ Lab 6
 * Número aproximado de horas para completar esta tarea
 ******************************************************************************/
 Número de horas:
+5
 
 
 /****************************************************************************
@@ -11,19 +12,20 @@ Número de horas:
 ******************************************************************************/
 
 ¿Sí o no?
+No
 
 
 /****************************************************************************
 * Escribe cualquier otro comentario aquí.
 ******************************************************************************/
-
+Se completaron todos los ejercicios y se validaron con las pruebas del laboratorio.
 
 
 /****************************************************************************
  *  Proporciona el enlace de tu perfil de GitHub (ej. https://github.com/afbeltranp)
  ******************************************************************************/
 
-[escribe el enlace aquí]
+https://github.com/afbeltranp
 
 /****************************************************************************
  *  Escribe y firma el siguiente reconocimiento estudiantil de trabajo original.
@@ -34,4 +36,4 @@ Número de horas:
  *      con las regulaciones de la Universidad.  /s/ Ada Lovelace
  ******************************************************************************/
 
-[escribe y firma la declaración aquí]
+Esta tarea de programación representa mi propio trabajo de acuerdo con las regulaciones de la Universidad. /s/ afbeltranp
